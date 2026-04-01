@@ -1,6 +1,6 @@
 # 📊 Global Sales Performance Analysis
 
-![Dashboard Preview](Dashboard screenshot.png)
+![Dashboard Preview](Dashboardscreenshot.png)
 
 ## 📝 Project Overview
 This project provides a data-driven deep dive into global sales performance, bridging the gap between raw data and actionable business strategy. By integrating **SQL** for data engineering, **Python** for statistical validation, and **Power BI** for interactive storytelling, the analysis identifies revenue growth drivers and evaluates marketing efficiency.
