@@ -34,4 +34,4 @@ This project provides a data-driven deep dive into global sales performance, bri
 
 ---
 Author: Haripriya  
-Let's Connect:  www.linkedin.com/in/haripriya2404
+Let's Connect:  WWW.linkedin.com/in/haripriya2404
